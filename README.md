@@ -27,7 +27,7 @@ Although my friend eventually got bored and decided to end this project, I learn
 
 In case you were wondering... it does fly! Here are a few clips of me throwing the models and seeing how the glide.
 
-|[![Watch the video](supp/Vf22_01.jpg)]()|[![Watch the video](supp/Vf22_02.jpg)]()|[![Watch the video](supp/Vf22_03.jpg)]()|[![Watch the video](supp/Vf22_04.jpg)]()|
+|[![Watch the video](supp/Vf22_01.jpg)](https://youtu.be/QgzakPlNW-E?si=-mzmcD7FLBz7-dUn)|[![Watch the video](supp/Vf22_02.jpg)](https://youtu.be/4TxeqOtsWyk?si=s08ldHJOOPTaKMog)|[![Watch the video](supp/Vf22_03.jpg)](https://youtu.be/nlAQO7RTo8k?si=DPv03ZAt-Cov4soS)|[![Watch the video](supp/Vf22_04.jpg)](https://youtu.be/ZGHTE5B1uQE?si=5aLPKonQYC1-euqw)|
 |-|-|-|-|
 
 ## AirFish 8 (AF8)
@@ -39,14 +39,14 @@ One day I stumbled upon a [YouTube video by Interesting Engineering](https://you
 
 ### AF8 video demos
 
-Taking all the lessons learned from the F-22 project, this model was much more succesful from the start and to my surprise, it really did work. By throwing it from near the ground, it stayed and turned gently in the air for much longer than any of my Raptor models would. By pushing it starting on ground, it would lift itself almost immediately, hovering just slightly above ground, gliding over much longer distances than it otherwise would have it any part of it did drag against the floor.
+Taking all the lessons learned from the F-22 project, this model was much more succesful from the start and to my surprise, it really did work. When throwing it normally, it would only aggressively pitch up and stall, but by throwing it from near the ground, it stayed and turned gently in the air. By pushing it starting on ground, it would lift itself almost immediately, hovering just slightly above ground, gliding over much longer distances than it otherwise would have it any part of it did drag against the floor.
 
 |[![Watch the video](supp/vaf8_01.jpg)](https://youtu.be/m_xgKpYTaZI)|[![Watch the video](supp/vaf8_02.jpg)](https://youtu.be/bm-Y0da_a8s)|[![Watch the video](supp/vaf8_03.jpg)](https://youtu.be/Si31yrSlv2M)|
 |-|-|-|
 
 I can pretty confidently say that this was the project that really got me interested in aerodynamics and all the odd querks that comes with objects interacting with a fluid.
 
-|[![Watch the video](supp/vaf8_04.jpg)]( )|[![Watch the video](supp/vaf8_05.jpg)]( )|[![Watch the video](supp/vaf8_06.jpg)]( )|
+|[![Watch the video](supp/vaf8_04.jpg)](https://youtu.be/_tQz6OGuQBg?si=pZkX5Hjlq4YmdI_D)|[![Watch the video](supp/vaf8_05.jpg)](https://youtu.be/_DISlFqzijA?si=mtkYvG4vNd1GAv5F)|[![Watch the video](supp/vaf8_06.jpg)](https://youtu.be/l5mT_E6dLoE?si=PugM1tzvmHBqSowe)|
 |-|-|-|
 
 ## MQ-9 Reaper
@@ -60,7 +60,7 @@ The much shorter chord length meant that it was much more sensitive to where the
 
 ### MQ-9 video demos
 
-|[![Watch the video](supp/vg01.jpg)]()|[![Watch the video](supp/vg02.jpg)]()|
+|[![Watch the video](supp/vg01.jpg)](https://youtu.be/b-aJ7IYaDi0?si=c7HuayNKaaCysvBH)|[![Watch the video](supp/vg02.jpg)](https://youtu.be/b-aJ7IYaDi0?si=LKlAETi-Xy1Wu-P7)|
 |-|-|
 
 ## Powered Model
